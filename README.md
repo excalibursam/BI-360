@@ -61,7 +61,7 @@ Data is pulled from:
 ![Marketing View](screenshots/marketing-view.png)
 
 ### Supply Chain View (Forecast & Error Analysis)
-![Supply Chain View](screenshots/supply-chain view.png)
+![Supply Chain View](screenshots/supply-chain-view.png)
 
 ## Links 🔗
 
